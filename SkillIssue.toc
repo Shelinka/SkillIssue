@@ -1,7 +1,7 @@
 ## Interface: 120000
 ## Title: Skill Issue
 ## Author: Shelinka
-## Notes: A simple reminder that Ion 
+## Notes: A simple reminder that Ion judges you
 ## IconTexture: Interface\Icons\achievement_boss_cthun
 
 SkillIssue.lua
