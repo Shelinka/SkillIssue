@@ -1,8 +1,11 @@
 ## Interface: 120000
 ## Title: Skill Issue
+## Version: 1.1.0
 ## Author: Shelinka
 ## Notes: A simple reminder that Ion judges you
 ## IconTexture: Interface\Icons\achievement_boss_cthun
 ## License: MIT
+## SavedVariables: SkillIssueDB
+## SavedVariablesPerCharacter: SkillIssueCharDB
 
 SkillIssue.lua
