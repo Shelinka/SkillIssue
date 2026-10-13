@@ -1,6 +1,6 @@
-## Interface: 120000, 120001, 120005, 120100
+## Interface: 120100, 120105
 ## Title: Skill Issue
-## Version: 1.1.0
+## Version: 1.1.1
 ## Author: Shelinka
 ## Notes: A simple reminder that Ion judges you
 ## IconTexture: Interface\Icons\achievement_boss_cthun
