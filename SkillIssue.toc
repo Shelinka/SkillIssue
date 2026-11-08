@@ -1,4 +1,4 @@
-## Interface: 120100, 120105
+## Interface: 120105, 16001
 ## Title: Skill Issue
 ## Version: 1.1.1
 ## Author: Shelinka
